@@ -8,8 +8,8 @@ We provide a Mikolov-style word-analogy evaluation set specifically for Bangla, 
 
 
 # Code
-For accuracy check: `.\accuracy.sh
+For accuracy check: ```.\accuracy.sh```
 
-For top-k words: `.\run.sh
+For top-k words: ```.\run.sh```
 
-Download Model folder from ![Here](https://auburn.box.com/s/6h4yvz4bhu7ide3l91oajtmrhk9p9f5s)
+Download Model folder from [Here](https://auburn.box.com/s/6h4yvz4bhu7ide3l91oajtmrhk9p9f5s)
