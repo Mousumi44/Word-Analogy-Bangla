@@ -1,0 +1,37 @@
+Mikolov Translate 		19500 
+
+#After filter removed english words (manually inspected they don't have bangla), some words are duplicate in Bangla, (e.g., present participle, plural verbs)
+
+===========================
+Mikolov 			     10594
+===========================
+
+===========================
+Semantic
+===========================
+Division-District		2160
+Gender 				1260 (chatgpt upto 560) (Bard upto 560)
+Number-Ordinal			380 (Bard upto 169) (chatgpt upto 169)
+Number-Date			930 (Bard upto 126) (chatgpt upto 126)
+Number-Female_form 		306 (Bard) (chatgpt)
+
+===========================
+Syntactic
+===========================
+Antonym-Adjective		4692 (chatgpt)
+Antonym-Misc			3782 (chatgpt upto 200)
+Tense       144 (Bard) (chatgpt)
+Comparative			552 (Bard) (chatgpt)
+Superlative			600	 (chatgpt upto 300)
+Prefix-উপসর্গ			66 (Bard) (chatgpt) ()
+Suffix-নির্দেশক			34 (Bard) (chatgpt)
+Suffix-প্রত্যয়			60 (Bard) (chatgpt)
+Affix-বিভক্তি			38 (Bard) (chatgpt)
+Plural-Noun			506 (chatgpt) (Bard upto )
+Plural-Object 			72 (Bard) (chatgpt)
+সাধু-চলিত (Noun)			342 (Bard) (chatgpt)
+সাধু-চলিত (Pronoun)		110 (Bard) (chatgpt)
+সাধু-চলিত (Verb)			462 (Bard) (chatgpt)
+সাধু-চলিত (Conjunction)	182 (Bard) (chatgpt)
+
+So Far excluding Mikolov ~16678
