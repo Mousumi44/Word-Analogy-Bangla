@@ -1,9 +1,7 @@
-# datas=(Affix_বিভক্তি Tense Antonym_Adjective Antonym_Misc Comparative Division_District Gender Mikolov-Filtered Division_District Gender Number_Date Number_Female Number_Ordinal Antonym_Adjective Antonym_Misc Affix_বিভক্তি Tense Comparative Plural_Noun Plural_Object Prefix_উপসর্গ Suffix_নির্দেশক Suffix_প্রত্যয় Superlative সাধু_চলিত_conj সাধু_চলিত_noun সাধু_চলিত_pronoun সাধু_চলিত_verb)
+datas=(Affix_বিভক্তি Tense Antonym_Adjective Antonym_Misc Comparative Division_District Gender Mikolov-Filtered Division_District Gender Number_Date Number_Female Number_Ordinal Antonym_Adjective Antonym_Misc Affix_বিভক্তি Tense Comparative Plural_Noun Plural_Object Prefix_উপসর্গ Suffix_নির্দেশক Suffix_প্রত্যয় Superlative সাধু_চলিত_conj সাধু_চলিত_noun সাধু_চলিত_pronoun সাধু_চলিত_verb)
 
-# embeds=(fasttext word2vec glove laser labse bnBERT bnTrans)
+embeds=(fasttext word2vec glove laser labse bnBERT bnTrans)
 
-datas=(Comparative Prefix_উপসর্গ Suffix_নির্দেশক Suffix_প্রত্যয়)
-embeds=(chatgpt)
 
 for curFile in "${datas[@]}" 
 do
