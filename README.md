@@ -21,6 +21,7 @@ For top-k words: ```.\run.sh```
 Download Model folder from [Here](https://auburn.box.com/s/6h4yvz4bhu7ide3l91oajtmrhk9p9f5s)
 
 # Cite
+```
 @inproceedings{akter-etal-2023-evaluation,
     title = "On Evaluation of {B}angla Word Analogies",
     author = "Akter, Mousumi  and
@@ -38,3 +39,4 @@ Download Model folder from [Here](https://auburn.box.com/s/6h4yvz4bhu7ide3l91oaj
     doi = "10.18653/v1/2023.emnlp-main.811",
     pages = "13121--13127"
 }
+```
